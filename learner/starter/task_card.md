@@ -4,6 +4,7 @@
 
 Add optional discount support to `calculate_total`.
 
+
 - Existing calls with only `items` must keep working.
 - Add a keyword-only `discount_percent` parameter whose default is `0`.
 - Accept values from 0 through 100 inclusive; reject values outside that range with `ValueError`.

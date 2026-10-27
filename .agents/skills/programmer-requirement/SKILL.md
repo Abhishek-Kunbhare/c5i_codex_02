@@ -1,6 +1,7 @@
 ---
 name: programmer-requirement
 description: Analyze a legacy desktop business application and plan small, reliable code changes across its UI, business logic, and database dependencies. Use for maintenance or feature requests in such applications; require explicit approval before editing code.
+
 ---
 
 # Programmer Requirement
