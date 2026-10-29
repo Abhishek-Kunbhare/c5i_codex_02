@@ -16,6 +16,7 @@
 
 ## Debrief
 
+
 1. Which project fact or rule did Codex repeat less often after the file existed?
 2. Did the file cause the change to be correct? What evidence supports your answer?
 3. Which rule was useful across Task A and Task B?
